@@ -1,6 +1,6 @@
 # MuscleStiffness
 
-#https://github.com/sidkrishna07/musclestiffness-research
+https://github.com/sidkrishna07/musclestiffness-research
 
 ## Authors
 - **Siddharth Krishna**
